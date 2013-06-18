@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="VolumeControl.WCFService.VolumeControlWCFService" CodeBehind="VolumeControlWCFService.svc.cs" %>
